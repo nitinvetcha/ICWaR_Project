@@ -9,6 +9,8 @@ As the name suggests, we use neural networks for regression except that the outp
 <br />The implementation in NNR.ipynb contains a neural network with one hidden fully connected layer of 32 neurons with ReLU activation. The loss function for computing gradients was the standard mean squared error and optimization was performed using Adam's method.
 
 ### 3. LSTM
+For sequence modelling, recurrent neural networks have been proven to be a very promising architecture. However, it suffers from exploding gradient problem (which can be resolved using clipping) and vanishing gradient problem. To solve the latter, LSTM's and GRU's have been developed which overcome the problem using gates. Our data inherently has a timestamp component, thereby facilitating the implementation of these architectures. Below is an image (from Stanford CS:230) of a cell from the LSTM block, which consists of 4 gates - update, relevance, forget and output. 
 <p align="center">
 <img src = https://github.com/nitinvetcha/ICWaR_Project/assets/118665106/740b840f-acd9-4f80-a013-de5e5cc96fe5 width="400" />
 </p>
+<br /> The implementation of LSTM in LSTM.ipynb file contains 2 LSTM layers and 2 dense layers of 32 neurons and 1 neuron to compute the prediction. The loss function for computing gradients was the standard mean squared error and optimization was performed using Adam's method.
