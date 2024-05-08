@@ -2,4 +2,5 @@ Data.txt contains the values of 6 predictor variables as well as the target TWS 
 # ML / DL Methods Implemented
 ### 1. Partial Least Squares Regression
 ### 2. Neural Network Regression
+As the name suggests, we use neural networks for regression except that the output layer is now modified i.e., when used for classification, it was normally a softmax layer giving normalized probabilities for each of the class involved. Data containing the 6 predictor variables would be flattened and given to the input layer, which is then processed to a hidden layer before finally resulting in the output. The involved weiight matrices and biases would be learned using backpropagation using stochastic graident descent.
 ![image](https://github.com/nitinvetcha/ICWaR_TWS_Prediction/assets/118665106/6d75b9f1-229e-4649-a87d-d63d5301716e)
