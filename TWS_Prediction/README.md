@@ -10,5 +10,5 @@ As the name suggests, we use neural networks for regression except that the outp
 
 ### 3. LSTM
 <p align="center">
-<img src = https://github.com/nitinvetcha/ICWaR_Project/assets/118665106/740b840f-acd9-4f80-a013-de5e5cc96fe5 />
+<img src = https://github.com/nitinvetcha/ICWaR_Project/assets/118665106/740b840f-acd9-4f80-a013-de5e5cc96fe5 width="200" />
 </p>
