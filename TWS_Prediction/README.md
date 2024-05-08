@@ -7,3 +7,8 @@ As the name suggests, we use neural networks for regression except that the outp
 <img src = https://github.com/nitinvetcha/ICWaR_TWS_Prediction/assets/118665106/6d75b9f1-229e-4649-a87d-d63d5301716e />
 </p>
 <br />The implementation in NNR.ipynb contains a neural network with one hidden fully connected layer of 32 neurons with ReLU activation. The loss function for computing gradients was the standard mean squared error and optimization was performed using Adam's method.
+### 3. LSTM
+<p align="center">
+<img src = ![image](https://github.com/nitinvetcha/ICWaR_Project/assets/118665106/740b840f-acd9-4f80-a013-de5e5cc96fe5)
+ />
+</p>
