@@ -2,7 +2,4 @@ Data.txt contains the values of 6 predictor variables as well as the target TWS 
 # ML / DL Methods Implemented
 ### 1. Partial Least Squares Regression
 ### 2. Neural Network Regression
-<p align="center">
-  <img src="![image](https://github.com/nitinvetcha/ICWaR_TWS_Prediction/assets/118665106/4947a873-b285-4288-870a-b3ef2c4e8e5a)
-"/>
-</p>
+![image](https://github.com/nitinvetcha/ICWaR_TWS_Prediction/assets/118665106/6d75b9f1-229e-4649-a87d-d63d5301716e)
